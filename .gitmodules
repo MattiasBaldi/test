@@ -1,0 +1,7 @@
+[submodule "R3F"]
+    path= R3F
+    url = https://github.com/MattiasBaldi/R3F-portfolio
+
+[submodule "portfolio"]
+    path= portfolio
+    url= https://github.com/MattiasBaldi/portfolio
