@@ -1,7 +1,9 @@
 [submodule "R3F"]
     path= R3F
     url = https://github.com/MattiasBaldi/R3F-portfolio
+    branch = main  # or whatever the correct branch name is
 
 [submodule "portfolio"]
     path= portfolio
     url= https://github.com/MattiasBaldi/portfolio
+    branch = main  # or whatever the correct branch name is
